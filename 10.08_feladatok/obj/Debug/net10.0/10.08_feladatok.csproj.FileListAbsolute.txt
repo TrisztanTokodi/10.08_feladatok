@@ -1,0 +1,14 @@
+H:\11.D\asztali alkalmazasok\10.08_feladatok\bin\Debug\net10.0\10.08_feladatok.exe
+H:\11.D\asztali alkalmazasok\10.08_feladatok\bin\Debug\net10.0\10.08_feladatok.deps.json
+H:\11.D\asztali alkalmazasok\10.08_feladatok\bin\Debug\net10.0\10.08_feladatok.runtimeconfig.json
+H:\11.D\asztali alkalmazasok\10.08_feladatok\bin\Debug\net10.0\10.08_feladatok.dll
+H:\11.D\asztali alkalmazasok\10.08_feladatok\bin\Debug\net10.0\10.08_feladatok.pdb
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.GeneratedMSBuildEditorConfig.editorconfig
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.AssemblyInfoInputs.cache
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.AssemblyInfo.cs
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.csproj.CoreCompileInputs.cache
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.dll
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\refint\10.08_feladatok.dll
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.pdb
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\10.08_feladatok.genruntimeconfig.cache
+H:\11.D\asztali alkalmazasok\10.08_feladatok\obj\Debug\net10.0\ref\10.08_feladatok.dll

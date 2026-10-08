@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|h:\\11.d\\asztali alkalmazasok\\10.08_feladatok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|h:\\11.d\\asztali alkalmazasok\\10.08_feladatok\\10.08_feladatok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|solutionrelative:10.08_feladatok.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|h:\\11.d\\asztali alkalmazasok\\10.08_feladatok\\konzol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DB03CC-4D53-3576-17C4-EE159FE73B9F}|10.08_feladatok.csproj|solutionrelative:konzol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10.08_feladatok.csproj",
+              "DocumentMoniker": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\10.08_feladatok.csproj",
+              "RelativeDocumentMoniker": "10.08_feladatok.csproj",
+              "ToolTip": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\10.08_feladatok.csproj",
+              "RelativeToolTip": "10.08_feladatok.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-08T06:22:25.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Konzol.cs",
+              "DocumentMoniker": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\Konzol.cs",
+              "RelativeDocumentMoniker": "Konzol.cs",
+              "ToolTip": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\Konzol.cs",
+              "RelativeToolTip": "Konzol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T06:22:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\11.D\\asztali alkalmazasok\\10.08_feladatok\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAcwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T05:29:00.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
